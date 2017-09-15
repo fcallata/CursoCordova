@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+   "start": "google-chrome /home/fabio/Desarollo/Personales/CordovaProjects/testNpm/index.html ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
